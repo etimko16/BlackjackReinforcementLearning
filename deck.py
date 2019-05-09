@@ -2,7 +2,7 @@
 """
 Created on Sun Mar 24 21:37:53 2019
 
-@author: Emily
+@author: Emily Timko etimko16@mail.bw.edu
 """     
 
 import random
